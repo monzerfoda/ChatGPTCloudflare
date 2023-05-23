@@ -62,5 +62,4 @@ Contributions to ChatGPT Cloudflare are welcome! If you find any issues or have 
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-Feel free to customize this README file with additional information, specific project details, and relevant links.
 
